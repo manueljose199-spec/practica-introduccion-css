@@ -1,15 +1,25 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-body{
+body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
 }
 
-header{
-    background-color: antiquewhite;
+header {
+    background-color: rgb(104, 164, 243);
     padding: 20px;
     text-align: center;
 }
+
+#nombre {
+    color: #003366;;
+}
+
+.intereces {
+    color: #555;
+
+}
+
