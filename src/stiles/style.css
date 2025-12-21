@@ -23,3 +23,23 @@ header {
 
 }
 
+main {
+    padding: 20px;
+}
+
+section {
+
+    margin-bottom: 20px;
+}
+
+.lista {
+    margin-left: 20px;
+}
+
+.texto {
+    background-color: aliceblue;
+    padding: 10px;
+}
+
+
+
