@@ -129,6 +129,35 @@ section {
   text-align: center;
 }
 
+/* Lección 5 - Flexbox: hábitos */
+
+.flex-habitos {
+    background-color: #eef4fb;
+    padding: 30px;
+    margin-top: 30px;
+}
+
+.flex-habitos h2 {
+     text-align: center;
+     margin-bottom: 20px;
+}
+
+.flex-habitos .flex-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: stretch;
+    gap: 20px;
+}
+
+.flex-habitos .flex-icono {
+    background-color: white;
+    border: 2px solid #1d78d3;
+    padding: 15px;
+    width: 220px;
+    text-align: center;
+}
+
+
 
 footer {
   background-color: antiquewhite;
