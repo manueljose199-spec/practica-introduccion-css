@@ -176,9 +176,16 @@ section {
 
 
 
-footer {
-  background-color: antiquewhite;
-  text-align: center;
-  padding: 10px;
-  margin-top: 20px;
+.cookie-footer {
+position: fixed;
+bottom: 0;
+left: 0;
+right: 0;
+background-color: #a09e9e;
+color: wheat;
+padding: 15px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+z-index: 2000;
 }
